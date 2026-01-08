@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://visdat2025-silk.vercel.app/$1", "permanent": false }
+  ]
+}
