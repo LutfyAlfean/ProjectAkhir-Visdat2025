@@ -1,4 +1,4 @@
-# APBD 2023 — Streamlit Dashboard (v3)
+# APBD 2023 — Streamlit Dashboard 
 
 Dashboard interaktif untuk eksplorasi **Pendapatan**, **Belanja**, **Komposisi Belanja**, dan **Rasio kinerja fiskal** dari dataset `APBD_2023.csv`.
 
