@@ -1,7 +1,7 @@
 {
   "rewrites": [
-    { "source": "/_stcore/(.*)", "destination": "https://visdat2025-silk.vercel.app/_stcore/$1" },
-    { "source": "/static/(.*)", "destination": "https://visdat2025-silk.vercel.app/static/$1" },
-    { "source": "/(.*)", "destination": "https://visdat2025-silk.vercel.app/$1" }
+    { "source": "/_stcore/(.*)", "destination": "https://visdat2025-six.vercel.app/_stcore/$1" },
+    { "source": "/static/(.*)", "destination": "https://visdat2025-six.vercel.app/static/$1" },
+    { "source": "/(.*)", "destination": "https://visdat2025-six.vercel.app/$1" }
   ]
 }
