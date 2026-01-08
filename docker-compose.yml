@@ -1,0 +1,7 @@
+services:
+  apbd-streamlit:
+    build: .
+    container_name: apbd-streamlit
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
