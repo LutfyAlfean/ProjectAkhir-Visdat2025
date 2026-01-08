@@ -1,7 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/_stcore/(.*)", "destination": "https://visdat2025.vercel.app/_stcore/$1" },
-    { "source": "/static/(.*)", "destination": "https://visdat2025.vercel.app/static/$1" },
-    { "source": "/(.*)", "destination": "https://visdat2025.vercel.app/$1" }
-  ]
-}
